@@ -9,9 +9,30 @@ body {
   align-items: left;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 td {
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 1%;
   padding-bottom: 1%;
+}
+
+/* unvisited link */
+a:link {
+  color: light-grey;
+}
+
+/* visited link */
+a:visited {
+  color: light-grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: grey;
 }
