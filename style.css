@@ -1,7 +1,7 @@
 body {
-  background: #292929;
+  background: snow;
   padding: 0 24px;
-  color: rgb(174, 174, 174); 
+  color: darkslategrey); 
   margin: 10%;
   height: 100vh;
   display: flex;
