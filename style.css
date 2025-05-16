@@ -19,12 +19,12 @@ td {
 
 /* unvisited link */
 a:link {
-  color: lightgrey;
+  color: grey;
 }
 
 /* visited link */
 a:visited {
-  color: lightgrey;
+  color: grey;
 }
 
 /* mouse over link */
@@ -34,7 +34,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: grey;
+  color: lightgrey;
 }
 
 h1 {
