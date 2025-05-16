@@ -19,12 +19,12 @@ td {
 
 /* unvisited link */
 a:link {
-  color: light-grey;
+  color: lightgrey;
 }
 
 /* visited link */
 a:visited {
-  color: light-grey;
+  color: lightgrey;
 }
 
 /* mouse over link */
