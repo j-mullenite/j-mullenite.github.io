@@ -15,7 +15,9 @@ h1 {
 h2 {
   align: right;
 }
-
+table.main {
+  width: 80%;
+}
 td {
   padding-left: 5%;
   padding-right: 5%;
