@@ -59,3 +59,7 @@ h1 {
 h2 {
   font-size: 11pt;
 }
+footer {
+  padding: 25px;
+  text-align: center;
+}
