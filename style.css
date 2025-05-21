@@ -38,12 +38,12 @@ td.right {
 
 /* unvisited link */
 a:link {
-  color: grey;
+  color: #333333;
 }
 
 /* visited link */
 a:visited {
-  color: grey;
+  color: #333333;
 }
 
 /* mouse over link */
