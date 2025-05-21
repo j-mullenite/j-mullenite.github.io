@@ -2,7 +2,7 @@ body {
   background: linen;
   background-image: linear-gradient(to right,  darkslategrey, slategrey);
   padding: 10%;
-  color: darkgrey; 
+  color: #222222; 
   margin: 10px;
   font-family: sans-serif;
 }
