@@ -21,6 +21,8 @@ table.main {
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
+  border-radius: 25px 50px;
+  border: 2px solid #73AD21;
 }
 td {
   padding-left: 5%;
