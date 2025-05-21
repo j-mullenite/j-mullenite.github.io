@@ -1,5 +1,6 @@
 body {
-  background: #3c3c3c;
+  background: linen;
+  background-image: linear-gradient(to right,  darkslategrey, slategrey);
   padding: 10%;
   color: darkgrey; 
   margin: 10px;
@@ -7,6 +8,7 @@ body {
 }
 h1 {
   text-align: right;
+  text-shadow: 2px 2px 4px #000000;
 }
 h2 {
   text-align: right;
@@ -14,7 +16,7 @@ h2 {
 table.main {
   background-color: rgba(255,255,255,0.5);
   width: 80%;
-  height: 800px;
+  height: 400px;
   margin-left: auto;
   margin-right: auto;
   margin-top: auto;
