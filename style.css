@@ -75,8 +75,7 @@ div.body {
   text-align: right;
 }
 .photos {
-  width: 50%;
-  height: 200px;
+  width: 100%;
   border: 5px dashed #f7a239;
 }
 img {
